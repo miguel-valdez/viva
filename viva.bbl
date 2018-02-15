@@ -1,0 +1,542 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global}
+    \entry{Bazylinski1995}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,hash=45817ca877913ea7bb9204737729d063}{%
+           family={Bazylinski},
+           family_i={B\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           given_i={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{uniquename=0,hash=64f42c60d9c193f077d9364d04c24060}{%
+           family={Frankel},
+           family_i={F\bibinitperiod},
+           given={R.\bibnamedelimi B.},
+           given_i={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{uniquename=0,hash=8c3ec609f95c0313204ca94b439ff1ff}{%
+           family={Heywood},
+           family_i={H\bibinitperiod},
+           given={B.\bibnamedelimi R.},
+           given_i={B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{uniquename=0,hash=fa0ad7ae3486b5538310b40abb9e3b3a}{%
+           family={Mann},
+           family_i={M\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+        {{uniquename=0,hash=fbeccec92e92c2b40c614641d8cc4e8c}{%
+           family={King},
+           family_i={K\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           given_i={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{uniquename=0,hash=e7dfe1d77718036e6d2985b26e0e04a0}{%
+           family={Donaghay},
+           family_i={D\bibinitperiod},
+           given={P.\bibnamedelimi L.},
+           given_i={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{uniquename=0,hash=47616482a286903d97ad1c81bd187231}{%
+           family={Hanson},
+           family_i={H\bibinitperiod},
+           given={A.\bibnamedelimi K.},
+           given_i={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf88fa4c2d333035cefe73027f70c523}
+      \strng{fullhash}{071676cce75889d5bcb0a118bd985627}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1995}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Appl. Environ. Microb.}
+      \field{number}{9}
+      \field{title}{Controlled biomineralization of magnetite ($\text{Fe}_\text{3}\text{O}_\text{4}$) and greigite ($\text{Fe}_\text{3}\text{S}_\text{4}$) in a magnetotactic bacterium}
+      \field{volume}{61}
+      \field{year}{1995}
+      \field{pages}{3232\bibrangedash 3239}
+      \range{pages}{8}
+    \endentry
+    \entry{Brown}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=91c52335ff4df74e9c2bd6fdbad5c778}{%
+           family={Brown},
+           family_i={B\bibinitperiod},
+           given={W.\bibnamedelimi F.},
+           given_i={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Interscience}%
+      }
+      \strng{namehash}{91c52335ff4df74e9c2bd6fdbad5c778}
+      \strng{fullhash}{91c52335ff4df74e9c2bd6fdbad5c778}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1963}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Micromagnetics}
+      \field{year}{1963}
+    \endentry
+    \entry{Chang2008}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=9fd9e7c2f13de2bc43a384d1ce9fca84}{%
+           family={Chang},
+           family_i={C\bibinitperiod},
+           given={L.},
+           given_i={L\bibinitperiod}}}%
+        {{uniquename=0,hash=cf81cc06ae74b247515c010912b70738}{%
+           family={Roberts},
+           family_i={R\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           given_i={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{uniquename=0,hash=614a12e393aa495afeb907fb8b5cc897}{%
+           family={Tang},
+           family_i={T\bibinitperiod},
+           given={Y.},
+           given_i={Y\bibinitperiod}}}%
+        {{uniquename=0,hash=f78d70adbed09e3ea72ec465f0468619}{%
+           family={Rainford},
+           family_i={R\bibinitperiod},
+           given={B.\bibnamedelimi D.},
+           given_i={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{uniquename=0,hash=238694f8e844a35b00b041292918406a}{%
+           family={Muxworthy},
+           family_i={M\bibinitperiod},
+           given={A.\bibnamedelimi R.},
+           given_i={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{uniquename=0,hash=b813bde724fed9a8815bd0658237f2ed}{%
+           family={Chen},
+           family_i={C\bibinitperiod},
+           given={Q.},
+           given_i={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf75c285d7528e22577012e650e01839}
+      \strng{fullhash}{39c7376ad5e2a6b76f109592c14ff238}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Geophys. Res.}
+      \field{number}{B6}
+      \field{title}{Fundamental magnetic parameters from pure synthetic greigite ($\text{Fe}_\text{3}\text{S}_\text{4}$)}
+      \field{volume}{113}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1029/2007JB005502
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1029/2007JB005502
+      \endverb
+    \endentry
+    \entry{Diaz-Ricci1992}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=4c58c9db89300cb72f44d37ece25c071}{%
+           family={Diaz-Ricci},
+           family_i={D\bibinithyphendelim R\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           given_i={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{uniquename=0,hash=16c05a71e66e419160f4674681230425}{%
+           family={Kirschvink},
+           family_i={K\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           given_i={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{98cdf785913bd7d041d3ca02f9da52a7}
+      \strng{fullhash}{98cdf785913bd7d041d3ca02f9da52a7}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{1992}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Geophys. Res.}
+      \field{number}{B12}
+      \field{title}{Magnetic domain state and coercivity predictions for biogenic greigite ($\text{Fe}_\text{3}\text{S}_\text{4}$): {A} comparison of theory with magnetosome observations}
+      \field{volume}{97}
+      \field{year}{1992}
+      \field{pages}{17309\bibrangedash 17315}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1029/92JB01290
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1029/92JB01290
+      \endverb
+    \endentry
+    \entry{Gilbert2004}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0c4758a2e61de187c1626ca6be8d1d74}{%
+           family={Gilbert},
+           family_i={G\bibinitperiod},
+           given={T.\bibnamedelimi L.},
+           given_i={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c4758a2e61de187c1626ca6be8d1d74}
+      \strng{fullhash}{0c4758a2e61de187c1626ca6be8d1d74}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE T. Magn.}
+      \field{title}{A phenomenological theory of damping in ferromagnetic materials}
+      \field{volume}{6}
+      \field{year}{2004}
+      \field{pages}{3443\bibrangedash 3449}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/TMAG.2004.836740
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1109/TMAG.2004.836740
+      \endverb
+    \endentry
+    \entry{Li2014}{article}{}
+      \name{author}{12}{}{%
+        {{uniquename=0,hash=b98bc376794875732428e30fbb084799}{%
+           family={Li},
+           family_i={L\bibinitperiod},
+           given={G.},
+           given_i={G\bibinitperiod}}}%
+        {{uniquename=0,hash=3254f17a53363f18d15ee5f7d89c3560}{%
+           family={Zhang},
+           family_i={Z\bibinitperiod},
+           given={B.},
+           given_i={B\bibinitperiod}}}%
+        {{uniquename=0,hash=3ad9762c588c2d2e5e81dccd63044f62}{%
+           family={Yu},
+           family_i={Y\bibinitperiod},
+           given={F.},
+           given_i={F\bibinitperiod}}}%
+        {{uniquename=0,hash=a5e46df3d1239299c7ba0678c217f817}{%
+           family={Novakova},
+           family_i={N\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           given_i={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{uniquename=0,hash=d7a45916b934802a7564d4242b1b8661}{%
+           family={Krivenkov},
+           family_i={K\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           given_i={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{uniquename=0,hash=aa629ca44f7dc64eab84a67ad9c4e605}{%
+           family={Kiseleva},
+           family_i={K\bibinitperiod},
+           given={T.\bibnamedelimi Y.},
+           given_i={T\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{uniquename=0,hash=9fd9e7c2f13de2bc43a384d1ce9fca84}{%
+           family={Chang},
+           family_i={C\bibinitperiod},
+           given={L.},
+           given_i={L\bibinitperiod}}}%
+        {{uniquename=0,hash=93c13e12797a528459d5e59a0efc71bd}{%
+           family={Rao},
+           family_i={R\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+        {{uniquename=0,hash=74e6ac283d43349448b107a4b879df25}{%
+           family={Polyakov},
+           family_i={P\bibinitperiod},
+           given={A.\bibnamedelimi O.},
+           given_i={A\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{uniquename=0,hash=1af45bdc4da196929f2ce542718741af}{%
+           family={Blake},
+           family_i={B\bibinitperiod},
+           given={G.\bibnamedelimi R.},
+           given_i={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{uniquename=0,hash=ef3560187d58f670c726053ad0724cdb}{%
+           prefix={de},
+           prefix_i={d\bibinitperiod},
+           family={Groot},
+           family_i={G\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{uniquename=0,hash=538cdafc98f425b71ea498281cff83f6}{%
+           family={Palstra},
+           family_i={P\bibinitperiod},
+           given={T.\bibnamedelimi T.\bibnamedelimi M.},
+           given_i={T\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a3b480074d9137f131ffd8c1be737a55}
+      \strng{fullhash}{364cbbe887ba63663e90e0484a021174}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chem. Mater.}
+      \field{number}{20}
+      \field{title}{High-purity {F}e$_\text{3}${S}$_\text{4}$ greigite microcrystals for magnetic and electrochemical performance}
+      \field{volume}{26}
+      \field{year}{2014}
+      \field{pages}{5821\bibrangedash 5829}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1021/cm501493m
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1021/cm501493m
+      \endverb
+    \endentry
+    \entry{Muxworthy2013}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=238694f8e844a35b00b041292918406a}{%
+           family={Muxworthy},
+           family_i={M\bibinitperiod},
+           given={A.\bibnamedelimi R.},
+           given_i={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{uniquename=0,hash=0604e1c88c0f23472565be7046eb7bf9}{%
+           family={Williams},
+           family_i={W\bibinitperiod},
+           given={W.},
+           given_i={W\bibinitperiod}}}%
+        {{uniquename=0,hash=cf81cc06ae74b247515c010912b70738}{%
+           family={Roberts},
+           family_i={R\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           given_i={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{uniquename=0,hash=8e3eb70b407aebf23fb6f3d596761414}{%
+           family={Winklhofer},
+           family_i={W\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+        {{uniquename=0,hash=9fd9e7c2f13de2bc43a384d1ce9fca84}{%
+           family={Chang},
+           family_i={C\bibinitperiod},
+           given={L.},
+           given_i={L\bibinitperiod}}}%
+        {{uniquename=0,hash=3f2e9e5bd6a4ddc37b9d94a01153581a}{%
+           family={Pósfai},
+           family_i={P\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0c76fec5de38a37f4d85e5894351358}
+      \strng{fullhash}{0ec6d621ea521496324c4d96cbf9a326}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geochem. Geophys. Geosyst.}
+      \field{number}{2}
+      \field{title}{Critical single domain grain sizes in chains of interacting greigite particles: {I}mplications for magnetosome crystals}
+      \field{volume}{14}
+      \field{year}{2013}
+      \field{pages}{5430\bibrangedash 5441}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1002/2013GC004973
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1002/2013GC004973
+      \endverb
+    \endentry
+    \entry{Reynolds1993}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=33618c4645d62e0762bd92287c4b7672}{%
+           family={Reynolds},
+           family_i={R\bibinitperiod},
+           given={R.\bibnamedelimi L.},
+           given_i={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{uniquename=0,hash=d3ab7f5b3f8e5216ec4fe34b21a85012}{%
+           family={Goldhaber},
+           family_i={G\bibinitperiod},
+           given={M.\bibnamedelimi B.},
+           given_i={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{uniquename=0,hash=b2c063988e2dbb30e3d809610b326acb}{%
+           family={Tuttle},
+           family_i={T\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           given_i={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=5f5fd18258b31054b96f9103c198f051}{%
+           family={Aïssaoui},
+           family_i={A\bibinitperiod},
+           given={D.\bibnamedelimi M.},
+           given_i={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7421c55ed96f213c90e9bb27da159b60}{%
+           family={McNeill},
+           family_i={M\bibinitperiod},
+           given={D.\bibnamedelimi F.},
+           given_i={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=d6788f564ee585c8f70e864922729601}{%
+           family={Hurley},
+           family_i={H\bibinitperiod},
+           given={N.\bibnamedelimi F.},
+           given_i={N\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tulsa, Oklahoma, U.S.A.}%
+      }
+      \list{organization}{1}{%
+        {SEPM (Society for Sedimentary Geology)}%
+      }
+      \list{publisher}{1}{%
+        {SEPM (Society for Sedimentary Geology)}%
+      }
+      \strng{namehash}{edbe78fd02aa95bf1f404b08e600444f}
+      \strng{fullhash}{edbe78fd02aa95bf1f404b08e600444f}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{1993}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Applications of Paleomagnetism to Sedimentary Geology}
+      \field{month}{09}
+      \field{number}{49}
+      \field{series}{SEPM Special Publication}
+      \field{title}{Sulfidization and magnetization above hydrocarbon reservoirs}
+      \field{year}{1993}
+      \field{pages}{167\bibrangedash 179}
+      \range{pages}{13}
+    \endentry
+    \entry{Roberts2015}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=cf81cc06ae74b247515c010912b70738}{%
+           family={Roberts},
+           family_i={R\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           given_i={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf81cc06ae74b247515c010912b70738}
+      \strng{fullhash}{cf81cc06ae74b247515c010912b70738}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth Sci. Rev.}
+      \field{title}{Magnetic mineral diagenesis}
+      \field{volume}{151}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 47}
+      \range{pages}{47}
+      \verb{doi}
+      \verb 10.1016/j.earscirev.2015.09.010
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1016/j.earscirev.2015.09.010
+      \endverb
+    \endentry
+    \entry{Roberts2011}{article}{}
+      \name{author}{5}{uniquelist=1}{%
+        {{uniquename=0,hash=cf81cc06ae74b247515c010912b70738}{%
+           family={Roberts},
+           family_i={R\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           given_i={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{uniquename=0,hash=9fd9e7c2f13de2bc43a384d1ce9fca84}{%
+           family={Chang},
+           family_i={C\bibinitperiod},
+           given={L.},
+           given_i={L\bibinitperiod}}}%
+        {{uniquename=0,hash=5a842fe1fcb0a74f17234cc2c32ea92a}{%
+           family={Rowan},
+           family_i={R\bibinitperiod},
+           given={C.\bibnamedelimi J.},
+           given_i={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{uniquename=0,hash=4f36895c4c367b716bec881917dcaa21}{%
+           family={Horng},
+           family_i={H\bibinitperiod},
+           given={C.\bibnamedelimi -S.},
+           given_i={C\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinithyphendelim S\bibinitperiod}}}%
+        {{uniquename=0,hash=70a2c7066139488d725bc54067ac2fd5}{%
+           family={Florindo},
+           family_i={F\bibinitperiod},
+           given={F.},
+           given_i={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{29ca46429a972cb5178e0917eba6279a}
+      \strng{fullhash}{bfc33484c0c50fa1729976c46108022c}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rev. Geophys.}
+      \field{number}{1}
+      \field{title}{Magnetic properties of sedimentary greigite ($\text{Fe}_\text{3}\text{S}_\text{4}$): An update}
+      \field{volume}{49}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.1029/2010RG000336
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1029/2010RG000336
+      \endverb
+    \endentry
+    \entry{Winklhofer2014}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=8e3eb70b407aebf23fb6f3d596761414}{%
+           family={Winklhofer},
+           family_i={W\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+        {{uniquename=0,hash=9fd9e7c2f13de2bc43a384d1ce9fca84}{%
+           family={Chang},
+           family_i={C\bibinitperiod},
+           given={L.},
+           given_i={L\bibinitperiod}}}%
+        {{uniquename=0,hash=d71ff887ee9714f04b4bd16343270565}{%
+           family={Eder},
+           family_i={E\bibinitperiod},
+           given={S.\bibnamedelimi H.\bibnamedelimi K.},
+           given_i={S\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{89f3db98f8c9c30ed5ed8837a87d94c6}
+      \strng{fullhash}{89f3db98f8c9c30ed5ed8837a87d94c6}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geochem. Geophys. Geosyst.}
+      \field{number}{4}
+      \field{title}{On the magnetocrystalline anisotropy of greigite ($\text{Fe}_\text{3}\text{S}_\text{4}$)}
+      \field{volume}{15}
+      \field{year}{2014}
+      \field{pages}{1558\bibrangedash 1579}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1002/2013GC005121
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1002/2013GC005121
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
